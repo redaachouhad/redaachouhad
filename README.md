@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redaachouhad" alt="redaachouhad" /></a> </p>
 
-- 🎓 I'm graduated from Engineering School Grenoble INP-ENSIMAG
+- 🎓 I'm graduated from **Engineering School Grenoble INP-ENSIMAG**
 
 - 🌱 I’m currently learning **Nest.js, Django**
 
 - 👯 I’m looking to collaborate on **Developpement web projects**
 
-- 👨‍💻 All of my projects are available at [https://officiel-portfolio-reda-achouhad-reda-achouhads-projects.vercel.app/](https://officiel-portfolio-reda-achouhad-reda-achouhads-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [My portfolio website](https://tinyurl.com/4vuypwtf)
 
 - 💬 Ask me about **React.js, Next.js, Spring boot, Express.js, Node.js, Docker, Keycloak, Kubernetes and anything**
   
