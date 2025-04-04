@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [My portfolio website](https://officiel-portfolio-reda-achouhad-reda-achouhads-projects.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js, Spring boot, Express.js, Node.js, Docker, Keycloak, Kubernetes and anything**
+- 💬 Ask me about **React.js, React-Native, Next.js, Spring boot, Express.js, Node.js, Docker, Keycloak, Kubernetes**
 
 
 <img src="developer_gif.gif" width="100%"/>
