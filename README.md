@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reda Achouhad</h1>
 <h3 align="center">A passionate Full Stack Developer Graduated from <strong>Engineering School Grenoble INP-ENSIMAG</strong></h3>
 
-- 👯 I’m looking to collaborate on **Web Developpement & Devops projects**
+- I’m looking to collaborate on **Web Developpement & Devops projects**
 
 
 - 💬 Ask me about **React.js, React-Native, Next.js, Spring boot, Express.js, Node.js, Docker, Keycloak, Kubernetes**
